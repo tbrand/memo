@@ -1,0 +1,17 @@
+{
+   "name": "mambo",
+   "version": "1.0.0",
+   "description": "Mammo",
+   "main": "app.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "author": "tbrand",
+   "license": "MIT",
+   "dependencies": {
+      "rolling-spider": "*",
+      "keypress": "*",
+      "noble": "*",
+      "temporal": "*"
+   }
+}
